@@ -5,3 +5,12 @@ This is a generic communication protocol intended to make medical sensor develop
 
 
 	Used Bytes
+
+| Sensor        | Type           
+| ------------- |:-------------:|
+| Blood Pressure      | 1 |
+| ECG      | 2      |
+| Heart Rate | 3      |
+| Breathing Rate | 4      |
+| Temperature | 5      |
+| Alert | 6      |
